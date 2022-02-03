@@ -1,17 +1,24 @@
 # Just 3nded up here
 
-## Recovering full-stack web developer experimenting with crypto and next-gen user interfaces
+### `Recovering full-stack web developer experimenting with crypto and next-gen user interfaces`
 
-- 🔭 I’m currently working on:
-  - ☠️ Graveyard Monlith Repo
-  - 🎨 Personal Project Gala
-- 🌱 I’m currently learning:
-  -  Solidity
-  -  Next.js
-  -  Web Animations
-    -  WebGL/Three.js
-  -  IPFS
-  -  Anything ZKSnark/Rollup/Stark related
+<details><summary>🔭 I’m currently working on</summary>
+  <ul>
+    <li>☠️ Graveyard Monlith Repo</li>
+    <li>🎨 Personal Project Gala</li>
+  </ul>
+</details>
+<details><summary>🌱 I’m currently learning</summary>
+    <ul>
+      <li>Solidity</li>
+      <li>Next.js</li>
+      <li>Advanced Web Animations
+        <ul><li>WebGL/Three.js</li></ul>
+      </li>
+      <li>IPFS</li>
+      <li>Anything ZKSnark/Rollup/Stark related</li>
+  </ul>
+</details>
 
 <!--
 **speaker-ender/speaker-ender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
