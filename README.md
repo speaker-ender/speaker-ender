@@ -1,9 +1,15 @@
-### Just 3nded up here
+# Just 3nded up here
 
-- 🔭 I’m currently working on ☠️ Graveyard Repo
+## Recovering full-stack web developer experimenting with crypto and next-gen user interfaces
+
+- 🔭 I’m currently working on:
+  - ☠️ Graveyard Monlith Repo
+  - 🎨 Personal Project Gala
 - 🌱 I’m currently learning:
   -  Solidity
   -  Next.js
+  -  Web Animations
+    -  WebGL/Three.js
   -  IPFS
   -  Anything ZKSnark/Rollup/Stark related
 
