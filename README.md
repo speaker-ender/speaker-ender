@@ -1,4 +1,11 @@
-### Hi there 👋
+### Just 3nded up here
+
+- 🔭 I’m currently working on ☠️ Graveyard Repo
+- 🌱 I’m currently learning:
+  -  Solidity
+  -  Next.js
+  -  IPFS
+  -  Anything ZKSnark/Rollup/Stark related
 
 <!--
 **speaker-ender/speaker-ender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
