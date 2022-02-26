@@ -5,8 +5,10 @@
 <details><summary>🔭 I’m currently working on</summary>
   <ul>
     <li>☠️ Graveyard Monlith Repo</li>
+    <li>🖲 React Scroll Animation Library</li>
+    <li>🎨 Styled Components Starter</li>
     <li>↔️ ZKDapp</li>
-    <li>🎨 Personal Project Gala</li>
+    <li>🖼 Personal Project Gala</li>
   </ul>
 </details>
 <details><summary>🌱 I’m currently learning</summary>
