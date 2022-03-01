@@ -6,6 +6,8 @@
   <ul>
     <li>☠️ Graveyard Monlith Repo</li>
     <li>🖲 React Scroll Animation Library</li>
+    <li>📐 React Position Tools</li>
+    <li>🌊 React Motion Tools</li>
     <li>🎨 Styled Components Starter</li>
     <li>↔️ ZKDapp</li>
     <li>🖼 Personal Project Gala</li>
