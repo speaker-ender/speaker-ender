@@ -2,7 +2,7 @@
 
 ### `Recovering full-stack web developer experimenting with crypto and next-gen user interfaces`
 
-<details><summary>🔭 I’m currently working on</summary>
+<details><summary>👁 Peek at what I'm working on</summary>
   <ul>
     <li>☠️ Graveyard Monlith Repo</li>
     <li>🖲 React Scroll Animation Library</li>
