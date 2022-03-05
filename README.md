@@ -1,4 +1,7 @@
-# Just 3nded up here
+
+<div>
+		<img src="paralax.svg" width="100%" height="100%" alt="Parlax Demo">
+</div>
 
 ### `Recovering full-stack web developer experimenting with crypto and next-gen user interfaces`
 
