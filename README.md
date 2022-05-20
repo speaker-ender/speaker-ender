@@ -8,19 +8,14 @@
     <li>🖲 React Scroll Animation Library</li>
     <li>📐 React Position Tools</li>
     <li>🌊 React Motion Tools</li>
-    <li>🎨 Styled Components Starter</li>
-    <li>↔️ ZKDapp</li>
-    <li>🖼 Personal Project Gala</li>
   </ul>
 </details>
 <details><summary>🌱 I’m currently learning</summary>
     <ul>
       <li>Solidity</li>
-      <li>Next.js</li>
       <li>Advanced Web Animations
         <ul><li>WebGL/Three.js</li></ul>
       </li>
       <li>IPFS</li>
-      <li>ZKSync</li>
   </ul>
 </details>
