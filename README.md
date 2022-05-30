@@ -4,10 +4,9 @@
 
 <details><summary>👁 Peek at what I'm working on</summary>
   <ul>
-    <li>☠️ Graveyard Monlith Repo</li>
-    <li>🖲 React Scroll Animation Library</li>
+    <li>🖲 React Scrollr</li>
     <li>📐 React Position Tools</li>
-    <li>🌊 React Motion Tools</li>
+    <li>🌊 React Motion</li>
   </ul>
 </details>
 <details><summary>🌱 I’m currently learning</summary>
