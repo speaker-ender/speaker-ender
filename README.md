@@ -1,6 +1,4 @@
-# Just 3nded up here
-
-### `Recovering full-stack web developer experimenting with crypto and next-gen user interfaces`
+### `Full-stack web developer experimenting with crypto and next-gen user interfaces`
 
 <details><summary>👁 Peek at what I'm working on</summary>
   <ul>
