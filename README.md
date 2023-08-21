@@ -9,10 +9,7 @@
 </details>
 <details><summary>🌱 I’m currently learning</summary>
     <ul>
-      <li>Solidity</li>
-      <li>Advanced Web Animations
-        <ul><li>WebGL/Three.js</li></ul>
-      </li>
-      <li>IPFS</li>
+      <li>React Native</li>
+      <li>Rust</li>
   </ul>
 </details>
