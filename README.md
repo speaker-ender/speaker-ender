@@ -1,17 +1,18 @@
-### `Full-stack web developer experimenting with crypto and next-gen user interfaces`
+### `swe experimenting with languages and next-gen user interfaces`
 
-<details><summary>👁 Peek at what I'm working on</summary>
+<details><summary>👁 peep what i'm working on</summary>
   <ul>
-    <li>🃏 Solitaire in Rust</li>
-    <li>📺 Rust CLI Visualization Tools</li>
-    <li>🖲 React Scrollr</li>
-    <li>📐 React Position Tools</li>
-    <li>🌊 React Motion</li>
+    <li>🧰 rust cli tools</li>
+    <li>🃏 solitaire in rust</li>
   </ul>
 </details>
-<details><summary>🌱 I’m currently learning</summary>
+<details><summary>🌱 currently learning</summary>
     <ul>
-      <li>Rust</li>
-      <li>React Native</li>
+      <li>rust</li>
+      <li>react native</li>
   </ul>
 </details>
+
+> [!NOTE]  
+> this account is exclusively for informational purposes.  
+> all active git repos are now offline.
